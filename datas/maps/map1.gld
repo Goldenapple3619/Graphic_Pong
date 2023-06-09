@@ -1,0 +1,84 @@
+<object>[
+    <class>[
+        <call>[Lawn]
+        <args>[
+            <int>[0]
+            <int>[0]
+            <int>[1400]
+            <int>[800]
+            <int>[36]
+            <int>[49]
+            <int>[97]
+        ]
+    ]
+];
+<object>[
+    <class>[
+        <call>[Lawn]
+        <args>[
+            <int>[700]
+            <int>[10]
+            <int>[3]
+            <int>[745]
+            <int>[240]
+            <int>[240]
+            <int>[240]
+        ]
+    ]
+];
+<object>[
+    <class>[
+        <call>[Lawn]
+        <args>[
+            <int>[10]
+            <int>[10]
+            <int>[1345]
+            <int>[3]
+            <int>[240]
+            <int>[240]
+            <int>[240]
+        ]
+    ]
+];
+<object>[
+    <class>[
+        <call>[Lawn]
+        <args>[
+            <int>[10]
+            <int>[10]
+            <int>[3]
+            <int>[745]
+            <int>[240]
+            <int>[240]
+            <int>[240]
+        ]
+    ]
+];
+<object>[
+    <class>[
+        <call>[Lawn]
+        <args>[
+            <int>[10]
+            <int>[753]
+            <int>[1345]
+            <int>[3]
+            <int>[240]
+            <int>[240]
+            <int>[240]
+        ]
+    ]
+];
+<object>[
+    <class>[
+        <call>[Lawn]
+        <args>[
+            <int>[1353]
+            <int>[10]
+            <int>[3]
+            <int>[745]
+            <int>[240]
+            <int>[240]
+            <int>[240]
+        ]
+    ]
+];

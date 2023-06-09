@@ -1,0 +1,7 @@
+![keys]
+    name: string,
+    path: string
+![values]
+    "get_include.cql"|"./src/CNQL",
+    "get_all_includes.cql"|"./src/CNQL",
+    "add_include.cql"|"./src/CNQL"

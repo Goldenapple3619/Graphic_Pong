@@ -1,0 +1,25 @@
+<class>[
+    <call>[Bar]
+    <args>[
+        <int>[500]
+        <int>[300]
+        <funcall>[
+            <call>[get_image]
+            <args>[
+                <string>[bar6]
+            ]
+        ]
+        <int>[4]
+        <int>[5]
+        <float>[10.4]
+        <int>[10]
+    ]
+    <attrs>[
+        <set>[
+            <at>[is_windowed]
+            <content>[
+                <bool>[false]
+            ]
+        ]
+    ]
+];

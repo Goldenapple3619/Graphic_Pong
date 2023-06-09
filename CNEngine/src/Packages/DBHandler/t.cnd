@@ -1,0 +1,8 @@
+![keys]
+    id:int,
+    test:string,
+    ok:bool
+![values]
+    55|"hello tt"|true,
+    66|"test"|false,
+    5|"t"|true

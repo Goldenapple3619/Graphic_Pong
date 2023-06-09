@@ -1,0 +1,6 @@
+![keys]
+    name:string,
+    path:string,
+    type:string
+![values]
+    "tools_icons"|"./dev_tools/pixel_art/datas/images"|"dir"

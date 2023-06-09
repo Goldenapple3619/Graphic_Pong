@@ -1,0 +1,16 @@
+![keys]
+    name:string,
+    path:string,
+    group:string,
+    icon:string
+![values]
+    "ball"|"$prefabs_path$"|"fun"|"ball0",
+    "ball1"|"$prefabs_path$"|"fun"|"ball1",
+    "ball2"|"$prefabs_path$"|"fun"|"ball2",
+    "bar"|"$prefabs_path$"|"fun"|"bar0",
+    "bar1"|"$prefabs_path$"|"fun"|"bar1",
+    "bar2"|"$prefabs_path$"|"fun"|"bar2",
+    "bar3"|"$prefabs_path$"|"fun"|"bar3",
+    "bar4"|"$prefabs_path$"|"fun"|"bar4",
+    "bar5"|"$prefabs_path$"|"fun"|"bar5",
+    "bar6"|"$prefabs_path$"|"fun"|"bar6"

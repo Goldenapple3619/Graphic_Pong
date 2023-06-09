@@ -1,0 +1,9 @@
+![keys]
+    name:string,
+    path:string,
+    type:string
+![values]
+    "main"|"$images_path$"|"dir",
+    "xp_c.png"|"$images_path$/UIs"|"file",
+    "back_menu.png"|"$images_path$/UIs"|"file",
+    "background.png"|"$images_path$/UIs"|"file"
